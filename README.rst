@@ -7,7 +7,7 @@
 =====
 PyOTA
 =====
-This is the official Python library for the IOTA Core.
+This is the official Python library for the IOTA Core.... as imagined by Benjamin Essers Rubin
 
 It implements both the `official API`_, as well as newly-proposed functionality
 (such as signing, bundles, utilities and conversion).
